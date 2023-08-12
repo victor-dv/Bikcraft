@@ -8,12 +8,12 @@
     align-items: center;
     flex-wrap: wrap;
     gap: 20px;
-    box-sizing: border-box;
+    padding-bottom: 20px;
+    padding-top: 20px;
+  /*   box-sizing: border-box; */
     /* faz com que os valor de box estimados nao suba */
-    padding: 20px;
-    max-width: 1200px;
-    margin-left: auto;
-    margin-right: auto;
+   
+ 
 }
 
 .header-menu {
